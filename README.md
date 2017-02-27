@@ -15,12 +15,13 @@ To use change the layout in windows you require Microsft Keyboard layout creator
 Installation
 ============
 
-Install Sindhi language pack first before you install the layout
-To install the layout for Windows 7 download the zip file <a href="https://drive.google.com/open?id=0B66mgoVHVopvb3dGZ21SQW9MM2s">JSSindhi-Windows 7.zip</a>
+Install Sindhi language pack first before you install the layout, downoad from above repository or from the links given below:
 
-To install the layout for Windows 8 download the zip file <a href="https://drive.google.com/open?id=0B66mgoVHVopvWXBIbkJrMGJfTzQ">JSSindhi-Windows8.zip</a>
+To install the layout for Windows 7 download the zip file <a href="https://github.com/jasolangi786/Sindhi-Keyboard-Layout/blob/master/JSSindhi-Windows%207.zip">JSSindhi-Windows 7.zip</a> 
 
-To install the layout for Windows 10 download the zip file <a href="https://drive.google.com/open?id=0B66mgoVHVopvUWttS0JBVGZLVmc">JSSindhi-Windows 10.zip</a>
+To install the layout for Windows 8 download the zip file <a href="https://github.com/jasolangi786/Sindhi-Keyboard-Layout/blob/master/JSSindhi-Windows8.zip">JSSindhi-Windows8.zip</a>
+
+To install the layout for Windows 10 download the zip file <a href="https://github.com/jasolangi786/Sindhi-Keyboard-Layout/blob/master/JSSindhi-Windows%2010.zip">JSSindhi-Windows 10.zip</a>
 
 Works for both 32 bit and 64 bit. run the AMD64.exe for 64-bit.
 
